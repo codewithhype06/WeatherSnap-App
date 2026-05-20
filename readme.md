@@ -63,7 +63,7 @@ The project strictly follows clean coding standards and the recommended modern A
 ### Running the App
 1. Clone the project locally:
    ```bash
-   git clone [
+   git clone [ https://github.com/codewithhype06/WeatherSnap-App.git ]
 
 2. Open Android Studio, click on Open Project, and target the root directory of this repository.
 
